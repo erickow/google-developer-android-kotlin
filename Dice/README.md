@@ -6,4 +6,4 @@ Learn more concepts in Kotlin—including classes, objects, and conditionals—t
 
 demo
 
-![Dice app demo](../assets/dice_roll_app.jpg)
+<img src="../assets/dice_roll_app.jpg" alt="Dice app demo" title="Dice app demo" width="150" />
